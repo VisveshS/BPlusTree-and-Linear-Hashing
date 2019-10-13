@@ -1,7 +1,6 @@
 # <u>B+ tree and Linear Hashing implementation</u>
 
-<p style='text-align: right;'><i>-Visvesh S Subramanian</i></p>
-## <u>PART 1: B+ Tree</u>
+## <u>PART 1: B+ tree</u>
 <b><u>*class Node:*</u></b>
 
  * **constructor** -<br>
