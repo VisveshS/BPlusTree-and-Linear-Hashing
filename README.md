@@ -1,7 +1,7 @@
-#<u>B+ tree and Linear Hashing implementation</u>
+# <u>B+ tree and Linear Hashing implementation</u>
 
 <p style='text-align: right;'><i>-Visvesh S Subramanian</i></p>
-##<u>PART 1: B+ Tree</u>
+## <u>PART 1: B+ Tree</u>
 <b><u>*class Node:*</u></b>
 
  * **constructor** -<br>
@@ -30,7 +30,7 @@
  * **first_leaf(value)** -<br>
         &middot; Returns the first record *(from left)* who's key is greater than *value*<br>
 
-##<u>PART 2: Linear Hashing</u>
+## <u>PART 2: Linear Hashing</u>
 <b><u>*class linearHash:*</u></b>
 
  * **constructor** -<br>
